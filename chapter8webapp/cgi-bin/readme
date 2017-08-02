@@ -1,0 +1,10 @@
+1、pickle方式
+（1）-----pickle---- <a href="cgi-bin/generate_list.py">timing data</a>. Enjoy!
+（2）generate_timing_data.py
+（3）generate_timing_data.py
+2、json方式
+（1）-----json---- <a href="cgi-bin/namelist.py">timing data</a>. Enjoy!
+（2）namelist.py/namelist_bak.py  #前面用Requests插件 / 后面用urllib urllib2
+    问题：在IDE中运行可以得出结果，在web浏览器上运行有超时错误，可能和python自带服务器不能多线程有关?
+（3）timeing_data.py
+    问题：在IDE中运行可以得出结果，在web浏览器上运行有超时错误，可能和python自带服务器不能多线程有关?
